@@ -38,11 +38,11 @@ for est in ordenada:
     print(f"{est['nombre']} - Nota: {est['nota']}")
 
 # Pedir al usuario un nombre para buscar
-nombre = input("\n Ingresá el nombre del estudiante a buscar: ")
+nombre = input("\nIngresá el nombre del estudiante a buscar: ")
 resultado = busqueda_lineal(estudiantes, nombre)
 
 # Mostrar el resultado de la búsqueda
 if resultado:
-    print(f"\n Estudiante encontrado: {resultado['nombre']} - Nota: {resultado['nota']}")
+    print(f"\nEstudiante encontrado: {resultado['nombre']} - Nota: {resultado['nota']}")
 else:
-    print("\n Estudiante no encontrado.")
+    print("\nEstudiante no encontrado.")
