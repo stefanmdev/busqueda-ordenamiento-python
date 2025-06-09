@@ -10,6 +10,17 @@ Se presenta una lista de estudiantes con sus nombres y notas, permitiendo:
 
 ---
 
+## 🎯 Objetivos del Proyecto
+
+Este proyecto tiene como objetivo:
+
+- Aplicar los conceptos básicos de algoritmos de búsqueda y ordenamiento en Python.
+- Desarrollar un caso práctico simple, claro y funcional, que simule una situación real.
+- Comprender las ventajas, limitaciones y usos recomendados de la búsqueda lineal y el ordenamiento burbuja.
+- Fomentar el trabajo colaborativo y la documentación clara del proceso de desarrollo.
+
+---
+
 ## ⚙️ Instrucciones de uso
 
 1. Clonar o descargar este repositorio.
@@ -48,6 +59,8 @@ Se presenta una lista de estudiantes con sus nombres y notas, permitiendo:
 
 - **Stefan Dios Mayarin** – stefan.dios@tupad.utn.edu.ar
 - **Mathias Flor** – mathias.flor@tupad.utn.edu.ar
+
+## Comisión: N°7
 
 ---
 
