@@ -72,7 +72,7 @@ Este proyecto nos permitió comprender la importancia de los algoritmos de búsq
 
 ## 📹 Video Explicativo
 
-🎥 [Ver presentación del proyecto en YouTube](https://youtu.be/tu-enlace-aqui)
+🎥 [Ver presentación del proyecto en YouTube](https://www.youtube.com/watch?v=gvkO3-HcwWQ)
 
 ---
 
